@@ -1,4 +1,5 @@
 ## Fira Code: free monospaced font with programming ligatures
+### Fork personalization: ss03 and ss08 stylistic sets enabled by default
 
 ![Fira Code](./extras/logo.svg)
 

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+for file in distr/ttf/FiraCode-*.ttf; do
+    install -m644 "${file}" /usr/share/fonts/TTF/
+done
